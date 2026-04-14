@@ -5,7 +5,7 @@ This project showcases an interactive Business Intelligence Dashboard built usin
 
 The dashboard transforms raw data into meaningful insights, helping stakeholders understand business performance and make data-driven decisions.
 
-# Objectives
+## Objectives
 The key objectives of this project are:
 
 • Analyze overall sales and profitability
@@ -28,12 +28,12 @@ The key objectives of this project are:
 
 • Profit Margin: 23.86%
 
-# Sales & Profit Analysis
+## Sales & Profit Analysis
 • Monthly trend of Sales, Profit, and Cost
 
 • Comparison of revenue vs profitability
 
-# Regional Analysis
+## Regional Analysis
 • State-wise sales performance
 
 • Identification of high and low-performing regions
